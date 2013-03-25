@@ -1,8 +1,5 @@
 package org.ng12306.ngsql.parser.recognizer;
 
-/**
- * @author <a href="mailto:shuo.qius@alibaba-inc.com">QIU Shuo</a>
- */
 public enum Token {
     EOF,
     PLACE_HOLDER,
