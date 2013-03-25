@@ -1,6 +1,8 @@
 package org.ng12306.ngsql.parser.visitor;
 
-
+/**
+ * @author <a href="mailto:wenjie.0617@gmail.com">wuwj</a>
+ */
 public final class MySQLOutputASTVisitor implements SQLASTVisitor {
 
     private static final Object[] EMPTY_OBJ_ARRAY = new Object[0];
